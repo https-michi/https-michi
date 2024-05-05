@@ -10,8 +10,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,vscode,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=java,spring,eclipse,jquery,idea,flask" /><br>
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,rider,visualstudio	" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,azure,mongodb,postgres	" /><br>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,rider,visualstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,azure,mongodb,postgres" /><br>
 </div>
 
 
