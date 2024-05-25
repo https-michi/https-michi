@@ -10,8 +10,13 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=https-michi&show_icons=true&theme=dracula&hide_border=false&include_all_commits=false&count_private=false) 
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=https-michi&layout=compact&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=https-michi&theme=dracula&hide_border=false)<br/>
+
+<div style="text-align: center;">
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=https-michi&theme=dracula&hide_border=false)
+</div>
+
 
 
 <h2 align="center"> Languages-Frameworks-Tools </h2>
