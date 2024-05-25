@@ -8,7 +8,10 @@
 </div>
 
 
-![https-mich' GitHub stats](https://github-readme-stats.vercel.app/api?username=https-michi&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https-michi&layout=compact&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api?username=https-michi&show_icons=true&theme=dracula" alt="GitHub de https-mich">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-michi&layout=compact&theme=dracula" alt="Lenguajes">
+
 
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 
