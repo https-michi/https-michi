@@ -8,10 +8,12 @@
 </div>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=https-michi&show_icons=true&theme=dracula" alt="GitHub de https-mich">
+![](https://github-readme-stats.vercel.app/api?username=https-michi&show_icons=true&theme=dracula) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=https-michi&layout=compact&theme=dracula)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-michi&layout=compact&theme=dracula" alt="Lenguajes">
 
+![](https://github-readme-stats.vercel.app/api?username=https-michi&theme=dracula=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=https-michi&theme=dracula=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 
