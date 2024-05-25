@@ -1,7 +1,7 @@
 
 <img src="carbon.png">
 
-<div style="text-align: center;">
+<div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F86C93&random=false&width=435&lines=CREATED+BY+SOCIAL+PRESSURE;IS+GLITH;WELCOME+MY+NAME+;WELCOME+MY+NAME+IS+GLITH" alt="Typing SVG">
     </a>
