@@ -9,21 +9,12 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=https-michi&show_icons=true&theme=dracula&hide_border=false&include_all_commits=false&count_private=false) 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=https-michi&layout=compact&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
-
 <div align="center">
-    <a href="https://github.com/https-michi/CRUD-BASICO.git">
-        <img src="https://github-readme-stats.vercel.app/api?username=https-michi&show_icons=true&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-    </a>
-    <a href="https://github.com/https-michi/CRUD-BASICO.git">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-michi&layout=compact&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="Top Languages">
-    </a>
-    <a href="https://github.com/https-michi/CRUD-BASICO.git">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=https-michi&theme=dracula&hide_border=false" alt="GitHub Streak">
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=https-michi&show_icons=true&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-michi&layout=compact&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="Top Languages">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=https-michi&theme=dracula&hide_border=false" alt="GitHub Streak">
 </div>
+
 
 
 <h2 align="center"> Languages-Frameworks-Tools </h2>
