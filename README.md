@@ -13,9 +13,9 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=https-michi&layout=compact&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
 
-<div style="text-align: center;">
+<center>
     ![](https://github-readme-streak-stats.herokuapp.com/?user=https-michi&theme=dracula&hide_border=false)
-</div>
+</center>
 
 
 
