@@ -11,9 +11,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=https-michi&show_icons=true&theme=dracula) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=https-michi&layout=compact&theme=dracula)
 
+![](https://github-readme-stats.vercel.app/api?username=https-michi&show_icons=true&theme=dracula&hide_border=false&include_all_commits=false&count_private=false) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=https-michi&layout=compact&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://github-readme-stats.vercel.app/api?username=https-michi&theme=dracula=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=https-michi&theme=dracula=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=https-michi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 
