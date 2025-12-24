@@ -2,7 +2,7 @@
 
 <h1 align="left">👋 ¡Hola! Soy Micho</h1>
 
-💻 Desarrollador de software y consultor tecnológico.
+💻 Desarrollador de software .
 
 🚀 Me apasiona crear soluciones de software que resuelvan problemas reales y aporten valor al negocio.
 
@@ -154,6 +154,7 @@ Con más de **2 años de experiencia**, he trabajado en proyectos de backend, ap
       <img src="images/contact.png" alt="Imagen de contacto" width="180" />
     </td>
 </div>
+
 
 
 
