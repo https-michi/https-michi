@@ -148,12 +148,13 @@ Con más de **2 años de experiencia**, he trabajado en proyectos de backend, ap
   </div>
 
   <div style="background:#f3f4f6; padding:12px 20px; border-radius:12px; min-width:200px;">
-    🎮 <strong>Discord:</strong> <a href="https://discord.com/users/tuusuario" target="_blank" style="text-decoration:none; color:#1a73e8;">@mi00001</a>
+    🎮 <strong>Discord:</strong> <a href="https://discord.gg/pDDWmKF5ft" target="_blank" style="text-decoration:none; color:#1a73e8;">@mi00001</a>
   </div>
 <td valign="top" align="center">
       <img src="images/contact.png" alt="Imagen de contacto" width="180" />
     </td>
 </div>
+
 
 
 
